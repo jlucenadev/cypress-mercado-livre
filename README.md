@@ -28,6 +28,7 @@ O projeto inclui:
 ---
 
 ## 📁 Estrutura do Projeto
+```
 mercado-livre-cypress-qa/
 ├── README.md
 ├── package.json
@@ -58,7 +59,7 @@ mercado-livre-cypress-qa/
 ├── carrinho/
 ├── checkout/
 └── ui_performance/
-
+```
 ---
 
 ## 🧩 Funcionalidades Automatizadas
