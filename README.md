@@ -26,7 +26,7 @@ O projeto inclui:
 - Produzir um projeto organizado e profissional para portfólio.
 
 ---
----
+'''
 ## 📁 Estrutura do Projeto
 mercado-livre-cypress-qa/
 ├── README.md
@@ -58,9 +58,7 @@ mercado-livre-cypress-qa/
 ├── carrinho/
 ├── checkout/
 └── ui_performance/
-
----
-
+'''
 ---
 
 ## 🧩 Funcionalidades Automatizadas
